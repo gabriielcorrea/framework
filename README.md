@@ -1,6 +1,4 @@
-# Framework for web development
-
-## Makefile:
+# Framework for Web Development
 
 ## Dependencies:
 
